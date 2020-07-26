@@ -27,18 +27,15 @@ The creation of these materials was supported in part by the National Science Fo
 [<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
 
 ### Figures
+#### Figure 01: The joint probability distribution of two energy levels
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/JointProbabilityDistributions/probability.svg" width="400px">
 
-<!---#### Figure 01: Entanglement evolution after a quantum quench
-<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench/blob/master/figures/method_flowchart_nobox.svg" width="400px">
+#### Figure 02: Two-points connected correlations (Spinless bosons)
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/SpinZeroTwoPointCorrelations/CorrSpin0L1001N1000tbeta1.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+#### Figure 03: Two-points connected correlations (Spin-1 bosons)
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/SpinOneTwoPointCorrelations/CorrSpin1L1001N1000tbeta1.svg" width="400px">
 
-#### Figure 02: Exact diagonalization results for entanglemnent
-<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench/blob/master/figures/DeltaS_vs_t_ED.svg" width="400px">
-
-#### Figure 03: Universality of entanglement
-<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench/blob/master/figures/asymptotic_entropy_vs_invN_LL_prediction.svg" width="400px">
-
-#### Figure 04: Entanglement entropy from the bosonic diagonal ensemble
-<img src="https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench/blob/master/figures/nobdm_SqnLL_N12_EE.svg" width="400px">
+#### Figure 04: Four-level correlations 
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/SpinOneFourPointCorrelations/CorrSpin1L1001N1000tbeta1_4points.svg" width="400px">
 
