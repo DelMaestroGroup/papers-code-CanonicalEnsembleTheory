@@ -19,7 +19,9 @@ The creation of these materials was supported in part by the National Science Fo
 [<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
 
 ### Figures
+
 #### Figure 01: The joint probability distribution of two energy levels 
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/JointProbabilityDistributions/probability.svg" width="400px">
 
 #### Figure 02: Two-points connected correlations (Spinless bosons)
 <img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/SpinZeroTwoPointCorrelations/CorrSpin0L1001N1000tbeta1.svg" width="400px">
