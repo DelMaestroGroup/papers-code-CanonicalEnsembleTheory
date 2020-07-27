@@ -15,12 +15,6 @@ We present a self-contained theory for the exact calculation of particle number 
 
 <!---<img width="400px" src="https://render.githubusercontent.com/render/math?math=H%3D%20-J%5Csum_%7Bi%3D1%7D%5E%7BL%7D%5Cleft(c%5E%5Cdagger_%7Bi%7D%20c%5E%7B%5Cphantom%7B%5Cdagger%7D%7D_%7Bi%2B1%7D%20%2Bc%5E%5Cdagger_%7Bi%2B1%7D%20%0A%20%20%20%20c%5E%7B%5Cphantom%7B%5Cdagger%7D%7D_%7Bi%7D%20%5Cright)%20%2B%20V(t)%5Csum_%7Bi%3D1%7D%5E%7BL%7D%20n_i%20n_%7Bi%2B1%7D">--->
 
-### Requirements
-<!---The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench/tree/master/data) directory was generated via:--->
-
-<!---* [ED for time evolution and entanglement entropy](https://github.com/DelMaestroGroup/tVDiagonalizeTimeEvaluationQuench/tree/TranslationalSymmetricInitialState_IntFermionBasis)
-* [LMFIT for finite size scaling analysis](https://lmfit.github.io/lmfit-py/)--->
-
 ### Support
 The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
 
