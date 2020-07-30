@@ -4,7 +4,7 @@
 
 
 # Theory of Non-Interacting Fermions and Bosons in the Canonical Ensemble
-Hatem Barghathi, Jiang Yu and Adrian Del Maestro
+Hatem Barghathi, Jiangyong Yu and Adrian Del Maestro
 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx)
 
 ### Abstract
