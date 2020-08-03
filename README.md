@@ -1,5 +1,7 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2007.15661-B31B1B.svg)](https://arxiv.org/abs/2007.15661)
-<!---[![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)--->
+[![DOI](https://zenodo.org/badge/282714013.svg)](https://zenodo.org/badge/latestdoi/282714013)
+
+
 
 
 
