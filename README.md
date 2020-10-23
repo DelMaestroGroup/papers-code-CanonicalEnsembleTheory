@@ -2,12 +2,14 @@
 [![DOI](https://zenodo.org/badge/282714013.svg)](https://zenodo.org/badge/latestdoi/282714013)
 
 
-
-
-
 # Theory of Non-Interacting Fermions and Bosons in the Canonical Ensemble
 Hatem Barghathi, Jiangyong Yu and Adrian Del Maestro
 [arXiv:2007.15661](https://arxiv.org/abs/2007.15661)
+
+### Summary
+**Wick's theorem for degenerate quantum gases in the canonical ensemble**
+
+<img src="https://github.com/DelMaestroGroup/CanonicalEnsembleTheory-paper-code/blob/master/Figures/Summary/prr.svg" width="400px">
 
 ### Abstract
 We present a self-contained theory for the exact calculation of particle number counting statistics of non-interacting indistinguishable particles in the canonical ensemble. This general framework introduces the concept of auxiliary partition functions, and represents a unification of previous distinct approaches with many known results appearing as direct consequences of the developed mathematical structure.  In addition, we introduce a general decomposition of the correlations between occupation numbers in terms of the occupation numbers of individual energy levels, that is valid for both non-degenerate and degenerate spectra.  To demonstrate the applicability of the theory in the presence of degeneracy, we compute energy level correlations up to fourth order in a bosonic ring in the presence of a magnetic field.
